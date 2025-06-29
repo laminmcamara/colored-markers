@@ -1,5 +1,7 @@
 Colored Markers
+
 Overview
+
 The Colored Markers project is a simple HTML and CSS demonstration that showcases colorful marker designs using CSS gradients and box shadows. The project provides an interactive visual representation of three different colored markers: red, green, and blue.
 
 Features:
